@@ -1,6 +1,6 @@
 {
   "name": "bismah-adventuregame",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Text-Based Adventure-Game in TypeScript and Node.js",
   "main": "index.js",
   "type": "module",

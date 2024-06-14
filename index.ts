@@ -35,6 +35,10 @@ class Opponent{
     }
 };
 
+console.log(chalk.bold.hex("D470A2")("\n\t<<<<<<(---------------------------------------------------------------)>>>>>>"));
+console.log(chalk.bold.hex("D470A2")("\t\t\t\tWelcome To My Adventure Game"));
+console.log(chalk.bold.hex("D470A2")("\t<<<<<<(---------------------------------------------------------------)>>>>>>\n"));
+
 //Prompting from Player
 let player = await inquirer.prompt([
     {
